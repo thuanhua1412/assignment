@@ -1,0 +1,15 @@
+Function: calculateSD
+                Parameter: data[10]
+                Body:
+                    Var: sum = 0.0, mean, sd = 0.0;
+                    Var: i;
+                    For (i = 0, i < 10, 1) Do
+                        sum = sum + data[i];
+                    EndFor.
+                    mean = sum \ 10;
+                    For (i = 0, i < 10, 1) Do
+                        sd = sd + pow(data[i]- mean, 2);
+                    EndFor.
+                    Return sqrt(sd \ 10);
+                EndBody.
+                

@@ -1,0 +1,12 @@
+Function: yolooo
+Body:
+While a > b Do
+a = a - 1;
+Continue;For(i = 1, i < 10 , i+2) Do
+Return i;EndFor.
+While b > c Do
+**Do nothing**
+EndWhile.
+Break;
+EndWhile.
+Return;EndBody.

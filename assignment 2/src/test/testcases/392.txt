@@ -1,0 +1,11 @@
+Function: sum
+                Parameter: num[100], n
+                Body:
+                    Var: avg, sum = 0 ;
+                    For (i = 0, i < n, 1) Do
+                        sum = sum + num[i];
+                    EndFor.
+                    avg = sum \ n;
+                    Return avg;
+                EndBody.
+                

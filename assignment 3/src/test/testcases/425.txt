@@ -1,0 +1,8 @@
+
+        Var:x = 2;
+        Function: main 
+        Parameter: a,b,c 
+        Body:
+            For (x = 15, 10,2) Do
+            EndFor.            
+        EndBody.

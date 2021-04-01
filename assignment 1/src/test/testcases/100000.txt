@@ -1,0 +1,4 @@
+Function: minhRuff
+Body:
+(a[123] < zxcv[213]) Then
+EndIf.EndBody.

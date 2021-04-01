@@ -1,0 +1,5 @@
+Function:fact1
+Parameter: n
+Body:
+Return n*fact1(n-1);
+EndBody.

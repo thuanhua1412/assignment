@@ -1,0 +1,9 @@
+
+            Function: funcName
+            Parameter: param
+            Body:
+                Var: arr[12], a, b ,c;
+                For(a = 1, a <= 5, a+1) Do
+                EndFor.
+            EndBody.
+        

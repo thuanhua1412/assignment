@@ -1,0 +1,14 @@
+
+        Function: main
+        Body:
+            Var: foo = 0x12AF;
+            printLn();
+            print("string");
+            printStrLn("string");
+            foo = int_of_float(1e-5);
+            foo = foo + foo();
+        EndBody.
+        Function: foo
+        Body:
+            Return True;
+        EndBody.

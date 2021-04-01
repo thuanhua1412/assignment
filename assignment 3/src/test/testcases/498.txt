@@ -1,0 +1,9 @@
+
+        Function: main
+        Parameter: x
+        Body:
+            Var: a[2],b,c,d;
+            **For (a = 1, main(main(5)), c) Do EndFor.**
+            If main(main(5)) Then EndIf.
+            **Do While main(main(5)) EndDo.**
+        EndBody.

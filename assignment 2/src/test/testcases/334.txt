@@ -1,0 +1,5 @@
+Function: fact
+                Body:
+                    v = func(func(func(func(7.123E-5))));
+                EndBody.
+                

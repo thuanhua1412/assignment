@@ -1,0 +1,10 @@
+
+            Function: funcName
+            Parameter: param
+            Body:
+                Var: a, b;
+                If a > b Then println("Hello World");
+                Else println("Chao the gioi");
+                EndIf.
+            EndBody.
+        

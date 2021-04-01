@@ -1,0 +1,12 @@
+
+            Function: foo
+            Parameter: x, y
+            Body:
+                Return 1;
+            EndBody.
+
+            Function: main
+            Body:
+                Var: print;
+                print();
+            EndBody.

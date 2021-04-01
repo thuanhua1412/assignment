@@ -1,0 +1,12 @@
+
+        Var:x = 25;
+        Function: main 
+        Parameter: a[2][3],b,c 
+        Body:
+            For (x = 1, True,2) Do
+                Var: y = True;
+                a = {{1,2,3},{4,5,6}};
+                c = a[1][1][3]+ a[2][2];
+                b = "string";
+            EndFor.            
+        EndBody.

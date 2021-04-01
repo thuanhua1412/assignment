@@ -1,0 +1,15 @@
+
+        Var: a, b[2];
+        Function: main
+        Body:
+            Var: x,y;
+            If x Then
+                a = foo(1,2);
+            Else
+            EndIf.
+        EndBody.
+
+        Function:foo
+        Parameter: x,y
+        Body:
+        EndBody.

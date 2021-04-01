@@ -1,0 +1,5 @@
+Function: yolooo
+Body:
+If (a < b) Then
+EndIf.
+EndBody.

@@ -1,0 +1,15 @@
+
+               Function: funcName
+               Parameter: param
+               Body:
+                   Var: arr[12], a, b ,c;
+                   For(a = 1, a <= 14, a + 17) Do
+                       If (a + b <= b + c) Then
+                           For(b = 12, b < 5, b + 23) Do
+                               chayo = "Hua Phuoc Thuan 1814226";
+                               println(chayo);
+                           EndFor.
+                       EndIf.    
+                   EndFor.
+               EndBody.
+           

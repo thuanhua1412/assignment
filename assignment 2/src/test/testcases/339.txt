@@ -1,0 +1,21 @@
+
+            Var:
+      n,tong=0, i;
+      Function:main
+    Body:
+      clrscr(); write("Nhap so nguyen duong n:");
+      readln(n);
+      tong = 0;
+      For (i=1,i<=n%2,i+1) Do
+        If (n % i == 0) Then
+          tong = tong + i;
+        EndIf.
+      EndFor.
+      If (tong == n) Then
+        writeln(n, " la so hoan hao");
+      Else
+        writeln(n, "khong la so hoan hao");
+      EndIf.
+      ***Kiem tra so hoan hao**
+    EndBody.
+            

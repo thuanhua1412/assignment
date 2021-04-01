@@ -1,0 +1,23 @@
+
+            Var:
+      n, i;
+    Function: main
+    Body:
+      clrscr();
+      write("Nhap so nguyen duong n: ");
+      readln(n);
+      If (n < 2) Then
+        writeln(n, " khong la so nguyen to");
+      Else
+        i = 2;
+        While ((i <= trunc(sqrt(n))) && (n % i != 0)) Do
+          i = i + 1;
+          EndWhile.
+        If i > trunc(sqrt(n)) Then
+          writeln(n, " la so nguyen to");
+        Else
+          writeln(n, " khong la so nguyen to");
+        EndIf.
+      EndIf.
+    EndBody.
+            

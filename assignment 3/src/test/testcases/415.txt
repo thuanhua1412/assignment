@@ -1,0 +1,13 @@
+
+        Function: main
+        Parameter : x, y
+        Body: 
+            x = saw("string") + 1; 
+            Return 0;
+        EndBody.
+        Function: saw
+        Parameter: x
+        Body:
+            x = "abc";
+            Return 10;
+        EndBody.

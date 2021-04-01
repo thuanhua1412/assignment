@@ -1,0 +1,12 @@
+
+            Var: c = 5, x, y = {1,2,3};
+            Function: naruToBaCo
+                Parameter: 
+                Body:
+                    If (x == 0) Then 
+                        Break;
+                    ElseIf (q == 0) Then
+                        Continue;
+                    EndIf.
+                EndBody.
+            

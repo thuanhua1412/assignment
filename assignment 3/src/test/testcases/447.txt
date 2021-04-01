@@ -1,0 +1,21 @@
+
+        Var:x = 25;
+        Function: call
+        Parameter: a,b,c
+        Body:
+            a = 10;
+            b = "str";
+            c = False;
+            Return ;
+        EndBody.
+
+        Function: main 
+        Parameter: a,b,c 
+        Body:
+            Var: y = True;
+            a = 2;
+            a = b;
+            Do
+                call(a,c,y);
+            While True EndDo.
+        EndBody.

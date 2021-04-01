@@ -1,0 +1,1 @@
+Dog: '"Gau Gau!!'",<EOF>

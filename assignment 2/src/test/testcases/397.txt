@@ -1,0 +1,24 @@
+Function: countSort
+                Parameter: arr[100], n, exp
+                Body:
+                    Var: output[100];
+                    Var: i, count[10] = {0};
+                    For (i = 0, i < n, 1) Do
+                        count[(arr[i] \ exp) % 10] = count[(arr[i] \ exp) % 10] + 1;
+                    EndFor.
+
+                    For (i = 1, i < 10, 1) Do
+                        count[i] = count[i] + count[i-1];
+                    EndFor.
+
+                    For (i = n-1, i >= 0, -1) Do
+                        output[count[(arr[i] \ exp)%10] - 1] = arr[i];
+                        count[(arr[i] \ exp) % 10] = count[(arr[i] \ exp) % 10] - 1;
+                    EndFor.
+
+                    For (i = 0, i < n, 1) Do
+                        arr[i] = count[i];
+                    EndFor.
+
+                EndBody.
+                

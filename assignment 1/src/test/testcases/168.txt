@@ -1,0 +1,6 @@
+Function:main
+                     Body:
+                     x = "This string is not terminated
+                     y = 12
+                     fact(x)
+                     Endbody.

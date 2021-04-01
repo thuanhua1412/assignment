@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(lagestElement)[VarDecl(Id(arr),[100]),VarDecl(Id(n))],([VarDecl(Id(res))][Assign(Id(res),ArrayCell(Id(arr),[IntLiteral(0)])),For(Id(i),IntLiteral(1),BinaryOp(<,Id(i),Id(n)),IntLiteral(1),[],[If(BinaryOp(>,ArrayCell(Id(arr),[Id(i)]),Id(res)),[],[Assign(Id(res),ArrayCell(Id(arr),[Id(i)]))])Else([],[])]),Return(Id(res))]))])

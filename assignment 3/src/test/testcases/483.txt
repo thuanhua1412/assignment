@@ -1,0 +1,7 @@
+
+        Var: a[2][2], b[2];
+        Function: main
+        Body:
+            Var:x;
+            x();
+        EndBody.

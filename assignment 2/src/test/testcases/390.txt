@@ -1,0 +1,6 @@
+
+            Function: main
+            Body:
+            Var:a[0x33][0x11]=0x1;
+            EndBody.
+            

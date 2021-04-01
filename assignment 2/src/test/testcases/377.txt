@@ -1,0 +1,15 @@
+Var: x = 5;
+         Function: main
+         Body:
+             x = 10;
+             printLn(x);
+             Continue;
+             Break;
+             Return;
+             foo();
+             Return foo(10);
+         EndBody.
+         Function: cont
+             Body:
+         EndBody.
+         

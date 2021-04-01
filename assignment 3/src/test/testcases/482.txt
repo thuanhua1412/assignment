@@ -1,0 +1,7 @@
+
+        Var: a[2][2], b[2];
+        Function: main
+        Body:
+            a = {{1,2},{3,4}};
+            b = a[2];
+        EndBody.

@@ -1,0 +1,1 @@
+Function,:,main,Body,:,x,=,This is a terminated string,;,fact,(,x,),;,EndBody,.,<EOF>

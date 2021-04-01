@@ -1,0 +1,6 @@
+Function:fact1
+Body:
+Var: string = "This is a string"
+string= string + 2;
+Return string;
+EndBody.

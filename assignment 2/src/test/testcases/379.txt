@@ -1,0 +1,8 @@
+Var: x = 5;
+         Function: main
+         Body:
+             Var: aa[0xDD];
+             x = 10;
+             printLn(x);
+         EndBody.
+         

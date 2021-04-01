@@ -1,0 +1,6 @@
+
+            Function: main
+            Body:
+            d=a[b[2][4] + foo(2)][goo(123)]+1;
+            EndBody.
+            

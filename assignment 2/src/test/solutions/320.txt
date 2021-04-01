@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(fact)[],([][Assign(Id(v),ArrayCell(CallExpr(Id(func),[]),[IntLiteral(5)]))]))])

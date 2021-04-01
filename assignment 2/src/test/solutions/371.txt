@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(fact)[],([][CallStmt(Id(foo),[BinaryOp(*,IntLiteral(5),IntLiteral(6)),IntLiteral(7)])]))])

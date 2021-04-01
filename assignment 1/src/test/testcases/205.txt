@@ -1,0 +1,6 @@
+Function:thinh
+Body:
+EndBody.
+Function:thinhthinh
+Body:
+EndBody.

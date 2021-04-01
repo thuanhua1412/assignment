@@ -1,0 +1,12 @@
+
+        Function: foooo
+        Parameter: x
+        Body:
+            x=1.1;
+            Return { True };
+        EndBody.
+        Function: main
+        Parameter: x, y
+        Body:
+            foooo(x)[0] = False;
+        EndBody.

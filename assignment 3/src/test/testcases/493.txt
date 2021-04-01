@@ -1,0 +1,18 @@
+
+        Function: main
+        Parameter: x
+        Body:
+            Var: a[1];
+            f1(f2(x))[0] = a[f2(f1(x))];
+        EndBody.
+        
+        Function: f1
+        Parameter: x
+        Body:
+        EndBody.
+        
+        Function: f2
+        Parameter: x
+        Body:
+        EndBody.
+        

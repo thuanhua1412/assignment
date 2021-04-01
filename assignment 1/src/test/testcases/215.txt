@@ -1,0 +1,1 @@
+Var: variable,y[a[10]];

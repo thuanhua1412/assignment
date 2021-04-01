@@ -1,0 +1,1 @@
+Program([VarDecl(Id(m),[10,10,10],ArrayLiteral(StringLiteral(abc),IntLiteral(123)))])

@@ -1,0 +1,5 @@
+Function: fact
+                Body:
+                    v = -a - b + c || 7.0 % 89;
+                EndBody.
+                

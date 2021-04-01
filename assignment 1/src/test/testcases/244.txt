@@ -1,0 +1,16 @@
+
+            Function: funcName
+            Parameter: param
+            Body:
+                Var: arr[14], a, b ,c;
+                For(a = 17, a <= 5, a + 1) Do
+                    For(b = 14, b <= 17, b + 3) Do
+                        For(c = 2, c <= 10, c + 4) Do
+                            For(d = 1, d <= 15, d + 5) Do
+                                Return "HCMUT CSE K18";
+                            EndFor.
+                        EndFor.
+                    EndFor.
+                EndFor.
+            EndBody.
+        

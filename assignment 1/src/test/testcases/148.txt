@@ -1,0 +1,4 @@
+While (i < 5)
+                 a[i] = b +. 1.0;
+                 i = i + 1;
+                EndWhile.

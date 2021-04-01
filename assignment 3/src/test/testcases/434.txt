@@ -1,0 +1,8 @@
+
+        Var:x = 25;
+        Function: main 
+        Parameter: a,b,c 
+        Body:
+            Var: y = True;
+            x = y;
+        EndBody.

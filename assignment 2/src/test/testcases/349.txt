@@ -1,0 +1,8 @@
+Function: fact
+                Body:
+                    If a == b Then a = a + 1; 
+                    ElseIf a > 3 Then a = a + 3;
+                    Else a = a + 4 ;
+                    EndIf.
+                EndBody.
+                

@@ -1,0 +1,7 @@
+Function: babyImReal
+Body:
+If (a =/= b) Then
+a = a + 1;
+a[3 + foo(2)] = a[b[2][3]] + 4;
+EndIf.
+EndBody.

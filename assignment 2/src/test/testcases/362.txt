@@ -1,0 +1,11 @@
+
+            Function: main
+    Body:
+    If (x==0) Then 
+    b=1;
+    Do
+    While 1
+    EndDo.
+    Else  EndIf.
+    EndBody.
+            

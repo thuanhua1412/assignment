@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(fact)[],([][Assign(Id(v),CallExpr(Id(func),[CallExpr(Id(func),[CallExpr(Id(func),[CallExpr(Id(func),[FloatLiteral(7.123e-05)])])])]))]))])

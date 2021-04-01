@@ -1,0 +1,6 @@
+Function:meow
+Body:
+For(i = 4,i<1,i++) Do
+i=i-1
+EndFor.
+EndBody.

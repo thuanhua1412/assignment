@@ -1,0 +1,7 @@
+Function: fact
+                Body:
+                    If a == b Then a = a + 1; 
+                    Else a = a + 2;
+                    EndIf.
+                EndBody.
+                

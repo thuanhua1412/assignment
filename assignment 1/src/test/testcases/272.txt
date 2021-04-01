@@ -1,0 +1,7 @@
+Function: babyGetMyGun
+Body:
+If (a -- b < 5) Then
+a = a + 1;
+a[c = d] = a[b[2][3]] + 4;
+EndIf.
+EndBody.

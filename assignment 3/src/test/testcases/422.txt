@@ -1,0 +1,16 @@
+
+        Var:x = 10;
+        Function: main 
+        Parameter: a,b,c 
+        Body:
+            b = 20;
+            c = b > x;
+            Do
+                For (x = 1, True,2) Do
+                    If c Then
+                    ElseIf b Then
+                    Else
+                    EndIf.
+                EndFor.            
+            While False EndDo.
+        EndBody.

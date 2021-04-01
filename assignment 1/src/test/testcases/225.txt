@@ -1,0 +1,12 @@
+
+            Var: parser = "Hua Thuan";
+            Function: foo
+                Parameter: count, x, y, z
+                Body:
+                For (x = 1.25, x < 12, 3) Do
+                    x = x +. 1;
+                    y = {1,2,3} *. 985475;
+                    z = "This is a string" =/= "abcdxzy";
+                EndFor.
+                EndBody.
+            

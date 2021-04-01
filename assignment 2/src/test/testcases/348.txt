@@ -1,0 +1,11 @@
+Function: fact
+                Body:
+                    If a == b Then 
+                        Var: z[1][2] = {{1,2}};
+                        a = a + 1; 
+                    ElseIf a > 3 Then 
+                        Var: x = 6, y;
+                        a = a + 3;
+                    EndIf.
+                EndBody.
+                

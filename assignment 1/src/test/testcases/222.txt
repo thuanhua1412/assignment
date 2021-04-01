@@ -1,0 +1,4 @@
+Var: x = {{1,2,3},{4,5,6}};
+        **Another global variable declaration**
+        Var: y = True;
+        Var: temp = 1.876 +. 78541;

@@ -1,0 +1,13 @@
+Var: x = 5;
+        Function: main
+        Parameter: a[0O123]
+        Body:
+        If x == y Then x = x + 1;
+        ElseIf x > y Then Var: a = 1;
+        ElseIf x < y Then Var: b = 2;
+        Else
+            If y > 10 Then y = y \ 2;
+            EndIf.
+        EndIf.
+        EndBody.
+        

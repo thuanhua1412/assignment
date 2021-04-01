@@ -1,0 +1,20 @@
+Var: x = 5;
+        Function: main
+        Parameter: a[0o123]
+        Body:
+            While (x < 10.5) Do
+                Var: mm = 10;
+                x = x + 1;
+                Continue;
+                While y == 1 Do
+                    Var: nn, qq;
+                    dd = nn;
+                    y[i] = x[y + i];
+                    a[0xDD] = 10.9;
+                    Return x + y;
+                EndWhile.
+                Return 10;
+            EndWhile.
+            Return dd;
+        EndBody.
+        

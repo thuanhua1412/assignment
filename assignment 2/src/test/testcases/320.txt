@@ -1,0 +1,5 @@
+Function: fact
+                Body:
+                    v = func()[5];
+                EndBody.
+                

@@ -1,0 +1,4 @@
+Function: yolooo
+Body:
+(a < b) Then
+EndIf.EndBody.

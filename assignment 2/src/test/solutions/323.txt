@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(fact)[],([][Assign(Id(v),BinaryOp(-.,BinaryOp(-,BinaryOp(*,IntLiteral(5),IntLiteral(3)),IntLiteral(8)),BinaryOp(\.,IntLiteral(5),IntLiteral(6))))]))])

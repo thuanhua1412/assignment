@@ -1,0 +1,6 @@
+Function: babyImReal
+Body:
+If a+5 < b Then
+a = a + 1;
+EndIf.
+EndBody.

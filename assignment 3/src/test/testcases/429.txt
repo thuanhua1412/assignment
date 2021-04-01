@@ -1,0 +1,10 @@
+
+        Var:x = 25;
+        Function: main 
+        Parameter: a,b,c 
+        Body:
+            Var: x;
+            While True Do
+                Var: x;
+            EndWhile. 
+        EndBody.

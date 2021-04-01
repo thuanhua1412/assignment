@@ -1,0 +1,3 @@
+Function: ak49
+Body:
+notAnd = !not || !(and && and);EndBody.

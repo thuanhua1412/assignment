@@ -1,0 +1,6 @@
+Function: yolooo
+Body:
+If (a -- b < 5) Then
+y + 2 = a;Return sth;
+EndIf.
+EndBody.

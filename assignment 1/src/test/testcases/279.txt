@@ -1,0 +1,9 @@
+Function: yolooo
+Body:
+If (a -- b < 5) Then
+Var: r = 10., v;
+c = a * yolooo(foo(arr[func(2)]));
+v = (4. \. 3.) *. 3.14 *. r *. r *. r;
+Return sth;
+EndIf.
+EndBody.

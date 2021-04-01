@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(tranposeOfMatrix)[VarDecl(Id(a),[10,10]),VarDecl(Id(tranpose),[10,10]),VarDecl(Id(r)),VarDecl(Id(c))],([][For(Id(i),IntLiteral(0),BinaryOp(<,Id(i),Id(r)),IntLiteral(1),[],[For(Id(j),IntLiteral(0),BinaryOp(<,Id(j),Id(c)),IntLiteral(1),[],[Assign(ArrayCell(Id(transpose),[Id(j),Id(i)]),ArrayCell(Id(a),[Id(i),Id(j)]))])]),Return(Id(transpose))]))])

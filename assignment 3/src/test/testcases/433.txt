@@ -1,0 +1,11 @@
+
+        Var:x = 25;
+        Function: main 
+        Parameter: a,b,c 
+        Body:
+            Var: x;
+            Do
+            **do nothing here**
+            Var: x;
+            While "boolean" EndDo.
+        EndBody.

@@ -1,0 +1,12 @@
+
+            Var: parser = 1814226;
+            Function: foo
+                Parameter: count, x, y, z
+                Body:
+                While (x = 1.08765 *. 2.098 || True) Do
+                    x = x +. 1;
+                    y = {1,2,3} *. 985475;
+                    z = "This is a string" =/= "abcdxzy";
+                EndWhile.
+                EndBody.
+            

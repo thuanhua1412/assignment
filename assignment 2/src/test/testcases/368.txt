@@ -1,0 +1,9 @@
+Function: fact
+                Body:
+                    Do
+                        i = i - 1 ;
+                    While 
+                        (i > 0) && (i < 6)
+                    EndDo.
+                EndBody.
+                

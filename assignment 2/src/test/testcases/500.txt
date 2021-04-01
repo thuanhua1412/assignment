@@ -1,0 +1,12 @@
+Var: x, y, z[100][0x4][0o12];
+                Function: func1
+                Parameter: x, y, z[100][0x4][0o12]
+                Body:
+                    print("\n");
+                    Return;
+                EndBody.
+                Function: func2
+                Parameter: abc
+                Body:
+                EndBody.
+                

@@ -1,0 +1,20 @@
+
+            **Comment**
+            Function: foo
+                Parameter: x, y, z
+                Body:
+                If (10.098 == 0) Then
+                    For(x = 0, x <. 10.098, x + 2) Do
+                    ** Comment* **
+                        While (x > 0.00) Do
+                            x = x + 1;
+                            print(x);
+                            write(x);
+                        EndWhile.
+                ** Comment* **
+                        print(a[2]);
+                    EndFor.
+                Else Continue;
+                EndIf.
+                EndBody.
+            

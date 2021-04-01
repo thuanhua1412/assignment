@@ -1,0 +1,6 @@
+Function: nah_nah
+Body:
+If a =. d Then
+a = a + 1;
+EndIf.
+EndBody.

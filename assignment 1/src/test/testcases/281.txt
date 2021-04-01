@@ -1,0 +1,7 @@
+Function: yolooo
+Body:
+If (a -- b < 5) Then
+y = a + foo(2) + b[c[2]][func(10)];
+Return sth;
+EndIf.
+EndBody.

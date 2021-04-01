@@ -1,0 +1,9 @@
+
+        Var:x = 10;
+        Function: main 
+        Parameter: a,b,c 
+        Body:
+            Var: m;
+            If m Then
+            EndIf.
+        EndBody.

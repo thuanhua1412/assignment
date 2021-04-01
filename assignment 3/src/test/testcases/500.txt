@@ -1,0 +1,7 @@
+
+        Function: main
+        Parameter: x
+        Body:
+            Var: a[2],b,c,d;
+            Do While main(main(5)) EndDo.
+        EndBody.

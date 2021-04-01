@@ -1,0 +1,16 @@
+
+        Var: a, b[2];
+        Function: main
+        Body:
+            Var: x[2][2],y;
+            If True Then
+                x = foo(1,2);
+            Else
+            EndIf.
+        EndBody.
+
+        Function:foo
+        Parameter: x,y
+        Body:
+            Return {{1,2},{1,2}};
+        EndBody.

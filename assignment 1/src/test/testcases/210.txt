@@ -1,0 +1,4 @@
+Function:ruff
+Parameter:array[3]
+Body:
+EndBody.

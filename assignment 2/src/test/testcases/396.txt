@@ -1,0 +1,11 @@
+Function: tranposeOfMatrix
+                Parameter: a[10][10], tranpose[10][10], r, c
+                Body:
+                    For (i = 0, i < r, 1) Do
+                        For (j = 0, j < c, 1) Do
+                            transpose[j][i] = a[i][j];
+                        EndFor.
+                    EndFor.
+                    Return transpose;
+                EndBody.
+                

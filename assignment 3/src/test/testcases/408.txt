@@ -1,0 +1,15 @@
+
+        Var:x[2] = {0,1};
+        
+        Function: foo
+        Body:
+        EndBody.
+        
+        Function: main 
+        Parameter: a,b,c
+        Body:
+        EndBody.
+        
+        Function: foo
+        Body:
+        EndBody.

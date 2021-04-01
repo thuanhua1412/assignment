@@ -1,0 +1,10 @@
+
+        Var: x,y;
+        Function: main
+        Parameter:a,b[2],c[2],d
+        Body:
+            a = x+y;
+            b = {1,2};
+            c = {1,2};
+            a = x+.y;
+        EndBody.

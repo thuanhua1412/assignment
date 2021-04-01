@@ -1,0 +1,7 @@
+Function: funcName
+                       Var: a = 5, 5;
+                       Parameter: a, b,c, e, array[12][34]
+                           Body:
+                               Var: a,b,c, array[1][2];
+                           EndBody.
+                   

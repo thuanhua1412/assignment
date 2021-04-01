@@ -1,0 +1,6 @@
+Function: yolooo
+Body:
+For(i , i < 2, i+2) Do
+a = b ----c;
+EndFor.
+EndBody.

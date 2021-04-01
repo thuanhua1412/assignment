@@ -1,0 +1,17 @@
+
+            Var: short = "Long";
+            Function: main_foo
+                Parameter: y
+                Body:
+                    If (x == 0) Then 
+                        Break;
+                    ElseIf (q == 0) Then
+                        Continue;
+                    EndIf.
+                EndBody.
+
+            Function: sub_foo
+                Parameter: x
+                Body:
+                EndBody.
+            

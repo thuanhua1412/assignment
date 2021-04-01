@@ -1,0 +1,13 @@
+
+        Var:x ;
+        Function: main 
+        Parameter: a,b,c 
+        Body:
+            Var: x; 
+            While a Do
+                Var: x;
+                Do
+                    Var: x;
+                While x EndDo.
+            EndWhile. 
+        EndBody.

@@ -1,0 +1,8 @@
+
+        Var:xx[2][3] = {{1,2,3},{1,2,3}}, y[2][3];
+        Function: main 
+        Parameter: a,b,c 
+        Body:
+            y = xx;
+            Return 1;
+        EndBody.

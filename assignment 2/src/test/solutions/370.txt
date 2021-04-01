@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(fact)[],([][Dowhile([VarDecl(Id(x),IntLiteral(22)),VarDecl(Id(y),IntLiteral(100)),VarDecl(Id(abc),StringLiteral(abc))],[Assign(Id(i),BinaryOp(-,Id(i),IntLiteral(1)))],Id(i))]))])

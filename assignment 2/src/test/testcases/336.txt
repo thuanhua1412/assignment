@@ -1,0 +1,11 @@
+Var: x = 5;
+        Function: main
+        Parameter: a[0O123]
+        Body:
+        If x == y Then x = x + 1;
+        ElseIf x > y Then x = voo(1.2);
+        ElseIf x < y Then y = b[goo(x)];
+        Else foo();
+        EndIf.
+        EndBody.
+        

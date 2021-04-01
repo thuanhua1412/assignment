@@ -1,0 +1,4 @@
+Function:woof
+Body:
+If a == 1 Then !b;
+EndBody.

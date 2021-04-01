@@ -1,0 +1,12 @@
+
+            Var:k;
+            Function: foo
+            Body:
+                Return {1,2,4};
+            EndBody.
+
+            Function: main
+            Parameter:x,y
+            Body:
+                foo()[1] = 1;
+            EndBody.

@@ -1,0 +1,14 @@
+
+        Var: zzz;
+        ** Comment 1 **
+        Function: foobalu_undenied
+            Parameter: a[2][5]
+        Body:
+        ** Comment 2 **
+        If (a + b -. c == 0) Then
+            x = b + c - a % 2;
+        Else 
+            Continue;
+        EndIf.
+        EndBody.
+        

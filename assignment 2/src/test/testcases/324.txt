@@ -1,0 +1,5 @@
+Function: fact
+                Body:
+                    v = a[8 + 3 * b];
+                EndBody.
+                

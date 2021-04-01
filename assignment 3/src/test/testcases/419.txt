@@ -1,0 +1,14 @@
+
+        Var:x = 10;
+        Function: main 
+        Parameter: a,b,c 
+        Body:
+            b = 20;
+            c = b > x;
+            a = (x + 2) > b;
+            If c Then
+                Var: x;
+            ElseIf a Then
+            Else 
+            EndIf.
+        EndBody.

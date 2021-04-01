@@ -1,0 +1,7 @@
+Function:thinh
+Body:
+EndBody.
+Function:thinhthinh
+Body:
+y = a +2 *4 + a[1][2][23][1] +"string";
+EndBody.

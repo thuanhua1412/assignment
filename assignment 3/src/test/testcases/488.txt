@@ -1,0 +1,20 @@
+
+        Var: a, b[2];
+        Function: main
+        Body:
+            Var: x,y;
+            If x Then
+                foo(test(1),2);
+            Else
+            EndIf.
+        EndBody.
+
+        Function:foo
+        Parameter: x,y
+        Body:
+        EndBody.
+        
+        Function: test
+        Parameter: x
+        Body:
+        EndBody.

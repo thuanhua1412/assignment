@@ -1,0 +1,13 @@
+Function: lagestElement
+                Parameter: arr[100], n
+                Body:
+                    Var: res;
+                    res = arr[0];
+                    For (i = 1, i < n, 1) Do
+                        If arr[i] > res Then
+                            res = arr[i];
+                        EndIf.
+                    EndFor.
+                    Return res;
+                EndBody.
+                

@@ -1,0 +1,13 @@
+
+            Var:k;
+            Function: foo_0
+            Parameter:x,y,z
+            Body:
+            EndBody.
+            
+            Function: main
+            Parameter:x,y
+            Body:
+                If foo_0(1,2,3)[1][2] Then
+                EndIf.
+            EndBody.

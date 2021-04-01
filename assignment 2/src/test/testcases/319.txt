@@ -1,0 +1,5 @@
+Function: fact
+                Body:
+                    v = -foo(2) * 5 - 3;
+                EndBody.
+                

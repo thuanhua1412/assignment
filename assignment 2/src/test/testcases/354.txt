@@ -1,0 +1,9 @@
+Function: fact
+                Body:
+                    If False Then 
+                    ElseIf True Then a = a + 2;
+                    ElseIf a > 3 Then a = a + 3;
+                    Else a = a + 4 ;
+                    EndIf.
+                EndBody.
+                

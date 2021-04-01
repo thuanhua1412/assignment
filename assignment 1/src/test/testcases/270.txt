@@ -1,0 +1,7 @@
+Function: somethingBlue
+Body:
+If (a + b == c + d) Then
+a = a + 1;
+a[3 + foo(2)] = a[b52] + 4;
+EndIf.
+EndBody.

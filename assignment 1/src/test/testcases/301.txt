@@ -1,0 +1,4 @@
+Function:main
+        Parameter: x = 10;
+        Body:
+        EndBody.

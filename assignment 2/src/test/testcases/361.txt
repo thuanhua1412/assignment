@@ -1,0 +1,9 @@
+
+            Function: main
+    Body:
+    For (a=2 ,i,i) Do
+    While (a < b) Do
+    EndWhile.
+    EndFor.
+    EndBody.
+            

@@ -1,0 +1,6 @@
+
+        Var:x[2] = {0,1};
+        Function: men 
+        Parameter: a,b,c 
+                   Body:
+                   EndBody.

@@ -1,0 +1,9 @@
+Function: yolooo
+Body:
+If (a < b) Then
+max = b;
+ElseIf a > b Then
+max = a;
+Else max = 0;
+EndIf.
+EndBody.

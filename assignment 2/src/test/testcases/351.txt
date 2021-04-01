@@ -1,0 +1,10 @@
+Function: fact
+                Body:
+                    If a == b Then 
+                        If b == c Then b = 5;
+                        EndIf.
+                    ElseIf True Then a = a + 2;
+                    Else a = a + 3 ;
+                    EndIf.
+                EndBody.
+                

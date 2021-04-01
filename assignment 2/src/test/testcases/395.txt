@@ -1,0 +1,10 @@
+Function: length
+                Parameter: s[1000]
+                Body:
+                    Var: cnt = 0;
+                    For (i = 0, s[i] != "0", 1) Do
+                        cnt = cnt + 1;
+                    EndFor.
+                    Return cnt;
+                EndBody.
+                

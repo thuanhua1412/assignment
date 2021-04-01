@@ -1,0 +1,6 @@
+Function: funcName
+                    Parameter: a, b,c, e, array[12][34]
+                        Body:
+
+                        EndBody
+                

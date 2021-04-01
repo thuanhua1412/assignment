@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(sum)[VarDecl(Id(num),[100]),VarDecl(Id(n))],([VarDecl(Id(avg)),VarDecl(Id(sum),IntLiteral(0))][For(Id(i),IntLiteral(0),BinaryOp(<,Id(i),Id(n)),IntLiteral(1),[],[Assign(Id(sum),BinaryOp(+,Id(sum),ArrayCell(Id(num),[Id(i)])))]),Assign(Id(avg),BinaryOp(\,Id(sum),Id(n))),Return(Id(avg))]))])

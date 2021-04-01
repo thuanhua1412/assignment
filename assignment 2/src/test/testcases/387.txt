@@ -1,0 +1,6 @@
+
+            Function: main
+            Body:
+            Var: x =0o567;
+            EndBody.
+            

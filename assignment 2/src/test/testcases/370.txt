@@ -1,0 +1,11 @@
+Function: fact
+                Body:
+                    Do
+                        Var: x = 0x16, y = 100;
+                        Var: abc = "abc";
+                        i = i - 1 ;
+                    While 
+                        i
+                    EndDo.
+                EndBody.
+                

@@ -1,0 +1,6 @@
+Function: yolooo
+Body:
+While a > b Do
+a = a - 1;
+EndWhile
+EndBody.

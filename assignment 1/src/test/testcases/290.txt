@@ -1,0 +1,12 @@
+Function: yolooo
+Body:
+If (a < b) Then
+max = b;
+b = a;
+ElseIf a == b Then
+ElseIf a == b 
+ElseIf a == b Then
+ElseIf a == b Then
+Else Return;
+EndIf.
+EndBody.

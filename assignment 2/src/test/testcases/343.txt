@@ -1,0 +1,4 @@
+
+            Function: main
+            Body: b=-foo(3,4,-func(b[59][20][40]))||1||a[1]||foo(1,2); EndBody.
+            

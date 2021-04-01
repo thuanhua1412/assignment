@@ -1,0 +1,8 @@
+Function: yolooo
+Body:
+If (a -- b < 5) Then
+a = a + 1;
+c = a * yolooo(foo(3 + func(2) - arr[14]));
+Return sth;
+EndIf.
+EndBody.

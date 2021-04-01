@@ -1,0 +1,16 @@
+
+            **Comment**
+            Var: c = 5, x, y = {1,2,3};
+            Function: main_foo
+                Parameter: a[2][10]
+                Body:
+                    If (x == 0) Then 
+                        Break;
+                        x = x +. 1.00837;
+                        y = y *. 1234;
+                    ElseIf (q == 0) Then
+                        Continue;
+                    EndIf.
+                    x = foo(1) + foo(2) +. naruto(123);
+                EndBody.
+            

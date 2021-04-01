@@ -1,0 +1,4 @@
+Function: test
+Body:
+a = a+--------------------b\f;
+EndBody.

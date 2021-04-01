@@ -1,0 +1,33 @@
+Function: partition
+                Parameter: start, end
+                Body:
+                    Var: size, i, j;
+                    Var: p;
+                    size = end - start;
+                    i = 1;
+                    j = size - 1;
+                    p = start[0];
+                    While True Do
+                        While start[i] < p Do
+                            If i == size - 1 Then
+                                Break;
+                            EndIf.
+                        EndWhile.
+
+                        While start[j] > p Do
+                            If j == 0 Then
+                                Break;
+                            EndIf.
+                        EndWhile.
+
+                        If i >= j Then
+                            Break;
+                        EndIf.
+
+                        swap(start[i], start[j]);
+                    EndWhile.
+                    swap(start[0], start[j]);
+                    Return start[j];
+
+                EndBody.
+                

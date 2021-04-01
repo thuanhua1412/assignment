@@ -1,0 +1,7 @@
+
+        Function: main
+        Parameter : x, y
+        Body: 
+            saw(x); 
+            Return 0;
+        EndBody.

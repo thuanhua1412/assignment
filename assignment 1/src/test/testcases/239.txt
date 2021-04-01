@@ -1,0 +1,7 @@
+
+                Var: array[12];
+                Function: funcName
+                    Body:
+                        v = funcName(n) + v;
+                    EndBody.
+                

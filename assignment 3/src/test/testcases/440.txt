@@ -1,0 +1,13 @@
+
+
+        Function: foo
+        Body:
+        Var: a[3][4];
+        Return a;
+        EndBody.
+        Function: main
+        Body:
+        foo()[0][2] = True;
+        foo()[1][2] = True;
+        EndBody.
+        

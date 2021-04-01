@@ -1,0 +1,10 @@
+
+             Function: main
+    Body:
+    For (a=2 ,i,i) Do
+    Do
+    While 1
+    EndDo.
+    EndFor.
+    EndBody.
+            

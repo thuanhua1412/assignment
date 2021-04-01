@@ -1,0 +1,1 @@
+Return foo(2) * func(3);

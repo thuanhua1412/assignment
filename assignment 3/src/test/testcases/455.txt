@@ -1,0 +1,21 @@
+
+        Var:x = 25;
+        Function: main 
+        Parameter: a,b,c 
+        Body:
+            Var: y;
+            For (x = 1, True,2) Do
+                Var: y = True;
+                a = foo(1,4.5) +. 2.9;
+            EndFor.            
+        EndBody.
+        
+        Function:foo
+        Parameter:m,n
+        Body:
+            Var: x;
+            Var: y;
+            x  = m + 1;
+            y = 10.0 >.n;
+            Return 10.2;
+        EndBody.

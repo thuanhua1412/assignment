@@ -1,0 +1,9 @@
+Function: fact
+                Body:
+                    Do
+                        i = i - 1 ;
+                    While 
+                        isPrime(i)
+                    EndDo.
+                EndBody.
+                

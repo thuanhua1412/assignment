@@ -1,0 +1,13 @@
+
+             Function: funcName
+                 Parameter: param
+                 Body:
+                     Var: i, a, b, c, arr[1] = {1,2,3};
+                     For (i, i < 10, i + 1) Do
+                         If ( i == 1) Then
+                             Continue;
+                         Else Break;
+                         EndIf.
+                     EndFor.
+                 EndBody.     
+             

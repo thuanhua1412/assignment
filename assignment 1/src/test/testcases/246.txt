@@ -1,0 +1,4 @@
+Var: a,b = 1, 2 ,c;
+Function: kaMeyoko
+Body:
+EndBody.

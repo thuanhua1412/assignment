@@ -1,0 +1,26 @@
+
+        Var:x = 10;
+        Function: main 
+        Parameter: a,b,c 
+        Body:
+            If True Then
+                Var: x;
+                Return 10;
+            ElseIf False Then
+                Var: x = False;
+                Return 50;
+            Else
+                Var: x;
+                Var: y;
+                Var: z;
+                Var: t;
+                For (x = t, y,z) Do
+                    If True Then 
+                        While True Do
+                            Do Return 2.4; While y
+                            EndDo.
+                        EndWhile. 
+                    EndIf.
+                EndFor.         
+            EndIf.   
+        EndBody.

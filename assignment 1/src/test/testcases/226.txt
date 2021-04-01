@@ -1,0 +1,17 @@
+
+            Function: foo
+                Parameter: x, y, z
+                Body:
+                If (x =/= 10.098 == 0) Then
+                    For(x = 0, x <. 10.098, x + 2) Do
+                        While (x > 0.00) Do
+                            x = x + 1;
+                            print(x);
+                            write(x);
+                        EndWhile.
+                        print(a[2]);
+                    EndFor.
+                Else Continue;
+                EndIf.
+                EndBody.
+            

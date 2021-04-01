@@ -1,0 +1,14 @@
+
+            Function: foo
+            Parameter: x, y
+            Body:
+                Return 1;
+            EndBody.
+
+            Function: main
+            Body:
+                Var: foo;
+                If True
+                Then foo = foo + foo();
+                EndIf.
+            EndBody.

@@ -1,0 +1,4 @@
+Function: test
+Body:
+b = && a;
+EndBody.

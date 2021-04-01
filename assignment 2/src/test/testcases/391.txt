@@ -1,0 +1,10 @@
+
+            Function: main
+            Parameter: a[0xA][0o1][0][0O11][0X11]
+            Body:
+            a=foo[0xA+0O1];
+            a=foo()[0xA + 0O1];
+            a= f[0xA];
+            a= f[-0xA];
+            EndBody.
+            

@@ -1,0 +1,7 @@
+Var: x = 5;
+        Function: main
+        Parameter: a[5][9][3], b[7]
+        Body:
+        Var: m[10][8] = {10.0,10.2};
+        EndBody.
+        

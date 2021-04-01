@@ -1,0 +1,6 @@
+Var: a,bc,d
+Function: fact
+Body:
+a= a+2;
+While a==2 Do b=b-1
+EndWhile.EndBody.

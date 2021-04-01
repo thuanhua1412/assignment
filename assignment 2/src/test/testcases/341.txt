@@ -1,0 +1,9 @@
+
+           Function: main
+            Body:
+            p = rho*r*t + (b_0*r*t-a_0-((c_0) \ (t*t))+((e_0) \ (mathPow(t, 4))))*rho*rho +
+        (b*r*t-a-((d) \ (t)))*mathpow(rho, 3) +
+        alpha*(a+((d) \ (t)))*mathpow(rho, 6) +
+        ((c*mathPow(rho, 3)) \ (t*t))*(1+gamma*rho*rho)*mathExp(-gamma*rho*rho);
+        EndBody.
+            

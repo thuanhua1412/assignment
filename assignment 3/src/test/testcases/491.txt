@@ -1,0 +1,17 @@
+
+        Var: a, b[2];
+        Function: main
+        Body:
+            Var: xyz[2][2],y;
+            If True Then
+                xyz = {{1.2,2.3},{3.4,3.5}};
+                xyz = foo(1,2);
+            Else
+            EndIf.
+        EndBody.
+
+        Function:foo
+        Parameter: x,y
+        Body:
+            Return {{1,2},{1,2}};
+        EndBody.

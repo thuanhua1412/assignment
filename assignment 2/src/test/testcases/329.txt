@@ -1,0 +1,10 @@
+
+            Function: main
+    Body:
+    Do
+    While (a < b) Do
+    EndWhile.
+    While 1
+    EndDo.
+    EndBody.
+            

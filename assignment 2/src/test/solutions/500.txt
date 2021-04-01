@@ -1,0 +1,1 @@
+Program([VarDecl(Id(x)),VarDecl(Id(y)),VarDecl(Id(z),[100,4,10]),FuncDecl(Id(func1)[VarDecl(Id(x)),VarDecl(Id(y)),VarDecl(Id(z),[100,4,10])],([][CallStmt(Id(print),[StringLiteral(\n)]),Return()])),FuncDecl(Id(func2)[VarDecl(Id(abc))],([][]))])

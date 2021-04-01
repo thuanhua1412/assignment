@@ -1,0 +1,8 @@
+Function: fact
+                Body:
+                    Do
+                    While 
+                        i > 0
+                    EndDo.
+                EndBody.
+                
